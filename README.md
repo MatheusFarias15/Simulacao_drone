@@ -103,3 +103,5 @@ No início de `src/main.py`, ajuste:
 - `outputs/posicoes_tempo.png`
 - `outputs/velocidade_tempo.png`
 - `outputs/orientacao_tempo.png`
+
+
