@@ -1,0 +1,1 @@
+Os gráficos PNG desta pasta são gerados novamente ao executar: python src/main.py --plots-only
